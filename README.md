@@ -11,6 +11,8 @@ The honk.bat is a standalone batch script, which at first, clones this repositor
 Beware, George brings new friend after each reboot.
 ## ungoose.bat
 This script fixes all the mess caused by honk.bat.
+### How to use?
+Simply download honk.bat (alone) and run it as administrator. (IT WILL REBOOT YOUR PC!)
 ### Sharing == caring?
 If you want to share honk.bat via internet, best way is to put it into .rar folder, not to upset windows defender. Please include ungoose.bat as well, or at least tell your friends how to get rid of George. Dont be a jerk!
 # Caution
