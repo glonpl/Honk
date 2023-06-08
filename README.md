@@ -16,7 +16,7 @@ Simply download honk.bat (alone) and run it as administrator. (IT WILL REBOOT YO
 ### Sharing == caring?
 If you want to share honk.bat via internet, best way is to put it into .rar folder, not to upset windows defender. Please include ungoose.bat as well, or at least tell your friends how to get rid of George. Dont be a jerk!
 # Caution
-You are using that script at your own risk. The increasing geese population can radically slow your computer down. I made that script as a joke, and please make sure all people involved are having laugh.  
+You are using all the scripts at your own risk. The increasing geese population can radically slow your computer down. I made that script as a joke, and please make sure all people involved are having laugh.  
 ```diff
 - Holding esc evicts George.
 - ungoose.bat deletes George.
